@@ -1,0 +1,8 @@
+Pip install os
+Pip install phonenumbers
+Pip install geocoder
+Pip install carrier
+Pip install timezone
+Pip install pystyle
+Pip install colorate
+Pip install colors
